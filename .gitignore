@@ -21,7 +21,6 @@ logs/
 Thumbs.db
 
 # IDE Settings
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -29,3 +28,6 @@ Thumbs.db
 # Production build 
 dist/
 build/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
